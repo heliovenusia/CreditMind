@@ -1,0 +1,466 @@
+{
+  "messages": [
+    {
+      "timestamp": "2025-07-20T20:23:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 989.1,
+      "body": "INR 989.1 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-22T09:13:45.510968",
+      "sender": "SBIUPI",
+      "type": "CREDIT_ALERT",
+      "amount": 1883.15,
+      "body": "INR 1883.15 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-24T10:22:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 519.36,
+      "body": "INR 519.36 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-25T14:33:45.510968",
+      "sender": "BILLDESK",
+      "type": "CREDIT_ALERT",
+      "amount": 1116.58,
+      "body": "INR 1116.58 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-26T10:11:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 603.82,
+      "body": "INR 603.82 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-27T20:57:45.510968",
+      "sender": "AMZPAY",
+      "type": "DEBIT_ALERT",
+      "amount": 597.24,
+      "body": "INR 597.24 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-28T13:10:45.510968",
+      "sender": "AMZPAY",
+      "type": "DEBIT_ALERT",
+      "amount": 1535.68,
+      "body": "INR 1535.68 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-30T16:53:45.510968",
+      "sender": "BILLDESK",
+      "type": "DEBIT_ALERT",
+      "amount": 695.45,
+      "body": "INR 695.45 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-07-31T19:44:45.510968",
+      "sender": "AMZPAY",
+      "type": "CREDIT_ALERT",
+      "amount": 2064.41,
+      "body": "INR 2064.41 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-01T09:00:45.510968",
+      "sender": "AXISBK",
+      "type": "CREDIT_ALERT",
+      "amount": 299.3,
+      "body": "INR 299.3 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-02T09:09:45.510968",
+      "sender": "PAYTM",
+      "type": "DEBIT_ALERT",
+      "amount": 2632.47,
+      "body": "INR 2632.47 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-03T16:30:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 808.79,
+      "body": "INR 808.79 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-04T18:46:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 3279.18,
+      "body": "INR 3279.18 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-05T09:15:45.510968",
+      "sender": "AXISBK",
+      "type": "EMI_DUE",
+      "amount": 1599.0,
+      "body": "EMI/Utility due soon"
+    },
+    {
+      "timestamp": "2025-08-07T21:17:45.510968",
+      "sender": "PAYTM",
+      "type": "CREDIT_ALERT",
+      "amount": 2702.85,
+      "body": "INR 2702.85 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-07T09:15:45.510968",
+      "sender": "KOTAKUPI",
+      "type": "EMI_DUE",
+      "amount": 1599.0,
+      "body": "EMI/Utility due soon"
+    },
+    {
+      "timestamp": "2025-08-09T15:22:45.510968",
+      "sender": "BILLDESK",
+      "type": "CREDIT_ALERT",
+      "amount": 1576.16,
+      "body": "INR 1576.16 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-11T21:41:45.510968",
+      "sender": "BILLDESK",
+      "type": "CREDIT_ALERT",
+      "amount": 897.49,
+      "body": "INR 897.49 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-13T19:38:45.510968",
+      "sender": "SBIUPI",
+      "type": "CREDIT_ALERT",
+      "amount": 930.47,
+      "body": "INR 930.47 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-14T08:48:45.510968",
+      "sender": "VODA-CARE",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-08-15T08:43:45.510968",
+      "sender": "VODA-CARE",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-08-16T17:38:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 445.08,
+      "body": "INR 445.08 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-18T08:13:45.510968",
+      "sender": "KOTAKUPI",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-08-18T09:52:45.510968",
+      "sender": "HDFCBK",
+      "type": "CREDIT_ALERT",
+      "amount": 541.9,
+      "body": "Rs. 541.9 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-20T21:36:45.510968",
+      "sender": "VODA-CARE",
+      "type": "CREDIT_ALERT",
+      "amount": 687.17,
+      "body": "INR 687.17 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-21T15:51:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 2389.73,
+      "body": "INR 2389.73 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-24T18:40:45.510968",
+      "sender": "HDFCBK",
+      "type": "CREDIT_ALERT",
+      "amount": 1559.45,
+      "body": "INR 1559.45 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-25T12:57:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 414.57,
+      "body": "INR 414.57 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-27T11:37:45.510968",
+      "sender": "HDFCBK",
+      "type": "DEBIT_ALERT",
+      "amount": 2014.93,
+      "body": "INR 2014.93 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-29T21:08:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 98.9,
+      "body": "INR 98.9 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-08-30T13:10:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 616.34,
+      "body": "INR 616.34 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-01T08:58:45.510968",
+      "sender": "HDFCBK",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-09-02T08:17:45.510968",
+      "sender": "KOTAKUPI",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-09-02T11:55:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 1378.53,
+      "body": "INR 1378.53 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-04T20:32:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 2705.88,
+      "body": "INR 2705.88 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-06T21:57:45.510968",
+      "sender": "AXISBK",
+      "type": "CREDIT_ALERT",
+      "amount": 586.05,
+      "body": "INR 586.05 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-07T08:31:45.510968",
+      "sender": "BILLDESK",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-09-07T09:15:45.510968",
+      "sender": "VODA-CARE",
+      "type": "EMI_DUE",
+      "amount": 1599.0,
+      "body": "EMI/Utility due soon"
+    },
+    {
+      "timestamp": "2025-09-08T10:31:45.510968",
+      "sender": "AMZPAY",
+      "type": "DEBIT_ALERT",
+      "amount": 2046.22,
+      "body": "INR 2046.22 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-08T09:15:45.510968",
+      "sender": "BILLDESK",
+      "type": "EMI_DUE",
+      "amount": 1388.33,
+      "body": "EMI/Utility due soon"
+    },
+    {
+      "timestamp": "2025-09-10T08:18:45.510968",
+      "sender": "VODA-CARE",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-09-10T10:27:45.510968",
+      "sender": "BILLDESK",
+      "type": "CREDIT_ALERT",
+      "amount": 368.48,
+      "body": "INR 368.48 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-12T14:16:45.510968",
+      "sender": "PAYTM",
+      "type": "DEBIT_ALERT",
+      "amount": 1149.96,
+      "body": "INR 1149.96 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-13T21:11:45.510968",
+      "sender": "VODA-CARE",
+      "type": "CREDIT_ALERT",
+      "amount": 957.54,
+      "body": "INR 957.54 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-14T08:11:45.510968",
+      "sender": "SBIUPI",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-09-15T08:32:45.510968",
+      "sender": "SBIUPI",
+      "type": "BALANCE_ALERT",
+      "amount": null,
+      "body": "A/C XXXX1234 balance low alert"
+    },
+    {
+      "timestamp": "2025-09-15T10:45:45.510968",
+      "sender": "PAYTM",
+      "type": "DEBIT_ALERT",
+      "amount": 828.77,
+      "body": "INR 828.77 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-19T12:21:45.510968",
+      "sender": "KOTAKUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 2240.08,
+      "body": "INR 2240.08 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-20T19:19:45.510968",
+      "sender": "PAYTM",
+      "type": "CREDIT_ALERT",
+      "amount": 2123.9,
+      "body": "INR 2123.9 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-22T21:34:45.510968",
+      "sender": "PAYTM",
+      "type": "DEBIT_ALERT",
+      "amount": 1233.51,
+      "body": "INR 1233.51 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-23T17:16:45.510968",
+      "sender": "BILLDESK",
+      "type": "DEBIT_ALERT",
+      "amount": 5984.18,
+      "body": "INR 5984.18 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-25T20:52:45.510968",
+      "sender": "HDFCBK",
+      "type": "CREDIT_ALERT",
+      "amount": 249.95,
+      "body": "Rs. 249.95 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-26T20:19:45.510968",
+      "sender": "SBIUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 526.98,
+      "body": "INR 526.98 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-28T16:07:45.510968",
+      "sender": "HDFCBK",
+      "type": "DEBIT_ALERT",
+      "amount": 1282.59,
+      "body": "INR 1282.59 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-29T14:31:45.510968",
+      "sender": "PAYTM",
+      "type": "DEBIT_ALERT",
+      "amount": 580.84,
+      "body": "INR 580.84 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-09-30T14:50:45.510968",
+      "sender": "KOTAKUPI",
+      "type": "DEBIT_ALERT",
+      "amount": 3801.39,
+      "body": "INR 3801.39 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-03T09:01:45.510968",
+      "sender": "SBIUPI",
+      "type": "CREDIT_ALERT",
+      "amount": 2967.05,
+      "body": "INR 2967.05 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-04T14:38:45.510968",
+      "sender": "VODA-CARE",
+      "type": "CREDIT_ALERT",
+      "amount": 760.75,
+      "body": "INR 760.75 credited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-05T19:05:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 1730.79,
+      "body": "INR 1730.79 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-07T19:06:45.510968",
+      "sender": "VODA-CARE",
+      "type": "DEBIT_ALERT",
+      "amount": 1475.22,
+      "body": "INR 1475.22 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-08T19:17:45.510968",
+      "sender": "BILLDESK",
+      "type": "DEBIT_ALERT",
+      "amount": 1792.28,
+      "body": "INR 1792.28 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-08T09:15:45.510968",
+      "sender": "AMZPAY",
+      "type": "EMI_DUE",
+      "amount": 1599.0,
+      "body": "EMI/Utility due soon"
+    },
+    {
+      "timestamp": "2025-10-10T13:54:45.510968",
+      "sender": "PAYTM",
+      "type": "DEBIT_ALERT",
+      "amount": 5096.24,
+      "body": "INR 5096.24 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-11T11:28:45.510968",
+      "sender": "AMZPAY",
+      "type": "DEBIT_ALERT",
+      "amount": 1372.97,
+      "body": "INR 1372.97 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-13T16:19:45.510968",
+      "sender": "AXISBK",
+      "type": "DEBIT_ALERT",
+      "amount": 1461.18,
+      "body": "INR 1461.18 debited to A/C XXXX1234"
+    },
+    {
+      "timestamp": "2025-10-14T12:01:45.510968",
+      "sender": "BILLDESK",
+      "type": "DEBIT_ALERT",
+      "amount": 283.34,
+      "body": "INR 283.34 debited to A/C XXXX1234"
+    }
+  ]
+}

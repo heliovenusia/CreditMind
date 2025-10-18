@@ -1,0 +1,24 @@
+{
+  "consent": {
+    "consent_id": "CONSENT-TELCO-DEMO-001",
+    "purpose": "behavioural_summary_for_credit",
+    "granted_at": "2025-10-18T07:02:45.514926",
+    "retention_days": 1,
+    "data_categories": [
+      "recharge_summary",
+      "usage_pattern",
+      "identity_stability"
+    ]
+  },
+  "summary_window_days": 180,
+  "metrics": {
+    "avg_monthly_recharge": 249.0,
+    "recharge_variance": 20.5,
+    "avg_call_duration_sec": 118.0,
+    "unique_contacts_monthly": 34,
+    "sim_age_months": 28,
+    "avg_data_usage_gb": 9.1,
+    "home_location_stability_index": 0.93
+  },
+  "notes": "Synthetic; representative only."
+}
